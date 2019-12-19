@@ -1,0 +1,73 @@
+{
+    "name": "Fanout",
+    "description": "Fanout???s reverse proxy helps you push data to connected devices instantly.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2168-fanout.jpg",
+    "tags": [
+        "api service provider",
+        "have api",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fanout\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Fanout",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2168-fanout.jpg",
+            "humanURL": "https:\/\/fanout.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fanout-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.fanout.io\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.fanout.io\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/fanout"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/fanout"
+        },
+        {
+            "type": "Email",
+            "url": "info@fanout.io"
+        },
+        {
+            "type": "Email",
+            "url": "sales@fanout.io"
+        },
+        {
+            "type": "Email",
+            "url": "support@fanout.io"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/fanout"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/fanout"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/fanout.io\/"
+        }
+    ]
+}
